@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README.md](README.md)
+* [WRITEUPS](README.md)
 
 ## Hack The Box
 

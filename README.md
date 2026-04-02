@@ -1,8 +1,4 @@
----
-description: writeups
----
-
-# README.md
+# WRITEUPS
 
 ## 🛡️ Cybersecurity Writeups
 
